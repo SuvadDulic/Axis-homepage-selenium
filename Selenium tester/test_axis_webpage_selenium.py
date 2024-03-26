@@ -6,7 +6,6 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.select import Select
-#class TestAxisWebpage:
 
 
 def test_axis_homepage(driver):
